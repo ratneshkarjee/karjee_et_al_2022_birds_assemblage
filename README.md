@@ -1,4 +1,4 @@
-# Karjee_et_al_2022_birds_assemblage
+# Biodiversity Analysis
 Sharing the R codes used for the study 'Birds assemblage in peri-urban landscape in eastern India' (Karjee et al.,2022).  In this study, we calculate diversity indices using the 'BiodiversityR' package. These codes can be replicated for similar studies. However, please keep in mind before replicating the R codes that your community data (birds, bees, wasps, etc) should be kept column-wise, and the environmental (habitat, temperature, rainfall, etc) be kept row-wise. 
 
 Citation:
